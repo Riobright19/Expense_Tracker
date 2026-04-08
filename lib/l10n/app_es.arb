@@ -1,0 +1,10 @@
+{
+"appTitle": "Rastreador de Gastos",
+"title": "Título",
+"amount": "Cantidad",
+"addExpense": "Agregar Gasto",
+"noExpenses": "No hay gastos aún",
+"retry": "Reintentar",
+"invalidNumber": "Número inválido",
+"requiredField": "Campo obligatorio"
+}

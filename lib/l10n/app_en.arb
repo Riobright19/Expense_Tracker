@@ -1,0 +1,10 @@
+{
+"appTitle": "Expense Tracker",
+"title": "Title",
+"amount": "Amount",
+"addExpense": "Add Expense",
+"noExpenses": "No expenses added yet",
+"retry": "Retry",
+"invalidNumber": "Enter valid number",
+"requiredField": "This field is required"
+}
