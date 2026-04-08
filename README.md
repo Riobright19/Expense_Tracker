@@ -60,3 +60,5 @@ Firebase integration
 Offline caching
 Charts & analytics
 Dark mode
+# Expense_Tracker
+A Flutter expense tracker application using Cubit (BLoC) for state management. Supports adding, editing, deleting, and loading expense records.
