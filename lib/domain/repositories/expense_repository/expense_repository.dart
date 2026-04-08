@@ -1,4 +1,4 @@
-import 'package:expense_tracker/data/models/expense_model.dart';
+import 'package:expense_tracker/app_barrel.dart';
 
 abstract class ExpenseRepository {
   Future<List<Expense>> getExpenses();

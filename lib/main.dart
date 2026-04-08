@@ -1,9 +1,4 @@
-import 'package:expense_tracker/bloc/expense_bloc/expense_cubit.dart';
-import 'package:expense_tracker/data/repository_impl.dart';
-import 'package:expense_tracker/l10n/app_localizations.dart';
-import 'package:expense_tracker/presentation/home_screen.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:expense_tracker/app_barrel.dart';
 
 void main() {
   final repository = ExpenseRepositoryImpl();

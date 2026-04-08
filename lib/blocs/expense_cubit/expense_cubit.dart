@@ -1,9 +1,7 @@
-import 'package:expense_tracker/data/models/expense_model.dart';
-import 'package:expense_tracker/domain/repositories/expense_repository.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:expense_tracker/app_barrel.dart';
 
-import 'expense_state.dart';
-export 'expense_state.dart';
+part 'expense_state.dart';
+part 'expense_event.dart';
 
 class ExpenseCubit extends Cubit<ExpenseState> {
   final ExpenseRepository repository;

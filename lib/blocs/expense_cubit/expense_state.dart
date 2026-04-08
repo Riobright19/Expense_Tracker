@@ -1,5 +1,4 @@
-import 'package:equatable/equatable.dart';
-import 'package:expense_tracker/data/models/expense_model.dart';
+part of 'expense_cubit.dart';
 
 abstract class ExpenseState extends Equatable {
   @override

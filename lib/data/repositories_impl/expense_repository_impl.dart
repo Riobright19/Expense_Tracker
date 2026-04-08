@@ -1,6 +1,4 @@
-import 'package:expense_tracker/data/models/expense_model.dart';
-
-import '../domain/repositories/expense_repository.dart';
+import 'package:expense_tracker/app_barrel.dart';
 
 class ExpenseRepositoryImpl implements ExpenseRepository {
   final List<Expense> _storage = [];
